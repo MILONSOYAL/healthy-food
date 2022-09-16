@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.line-color {
+    color: rgb(255, 0, 170);
+}
+
+.button {
+    text-decoration: none;
+    background-image: radial-gradient(rgb(59, 243, 66), rgb(237, 41, 221));
+    padding: 10%, 30%;
+    border-radius: 5%;
+    font-size: 250%%;
+}
